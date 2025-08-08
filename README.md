@@ -46,9 +46,7 @@ I’m a CS student and part-time cloud developer who loves building things—fro
 #
 
 ### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJC0&layout=default" alt="Top Languages" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJC0&theme=transparent&layout=normal)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
