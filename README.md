@@ -2,7 +2,7 @@
 
 **🎓 CS Student | ☁️ Part-time Cloud Developer | 🎮 Game Dev**
 
-I’m a CS student and part-time cloud developer who loves building things—from scalable backend systems to sleek websites, mobile apps, and indie games. Whether it’s deploying to the cloud or designing game mechanics, I enjoy solving problems and bringing ideas to life. Backend development is my happy place, but I’m always exploring new tech and creative side projects. I use GitLab for UNI and work so here is just my Personal Stuff :)
+I’m a CS student and part-time cloud developer who loves building things, from scalable backend systems to sleek websites, mobile apps, and indie games. Whether it’s deploying to the cloud or designing game mechanics, I enjoy solving problems and bringing ideas to life. Backend development is my happy place, but I’m always exploring new tech and creative side projects. I use GitLab for UNI and work so here is just my Personal Stuff :)
 
 #
 
